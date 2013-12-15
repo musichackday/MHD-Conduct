@@ -51,10 +51,10 @@ includes sponsors, technology presenters, hackers, and the audience for the hack
 demoes at the end of the weekend.
 
 All attendees are subject to the anti-harrassment policy. In particular, sponsors
-and presenters should not use sexualized images, activities, or other material.
+and presenters should not use sexualized or otherwise harrassing images, activities, or other material.
 If booths and booth staff are present, booth staff (including volunteers) should
-not use sexualized clothing, uniforms, or costumes, or otherwise create a
-sexualized environment.
+not use sexualized or otherwise harrassing clothing, uniforms, or costumes, or otherwise create a
+hostile environment for other attendees.
 
 Attendees asked to stop any harrassing behavior are expected to comply immediately.
 
