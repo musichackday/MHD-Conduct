@@ -1,8 +1,9 @@
 Music Hack Day Code of Conduct
 ==============================
 
-Music Hack Day is dedicated to a harassment-free hackathon experience for everyone.
-Our anti-harassment policy can be found at: http://conduct.musichackday.org/
+Music Hack Day is an event centered around having fun with music.  To that end,
+we expect all attendees to behave responsibly to foster an inclusive environment
+for everyone.  Our complete Code of Conduct can be found at: http://conduct.musichackday.org/
 
 
 Medium Version
